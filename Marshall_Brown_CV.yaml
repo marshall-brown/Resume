@@ -18,7 +18,7 @@ cv:
     education:
       - institution: Georgia Southern University
         area: Information Technology
-        degree: B.S
+        degree: B.S.
         location: Statesboro, GA, USA
         start_date: 2008
         end_date: 2013
@@ -27,12 +27,21 @@ cv:
     experience:
       - company: Dell Technologies
         position: Principle Site Reliability Engineer | Generative A.I.
-        start_date: 
-        end_date: 
+        start_date: 2024-01
+        end_date: 2025-02
+        summary:  Experienced Site Reliability Engineer specializing in deploying and managing Generative AI applications using Kubernetes, Helm, and Ansible. 
+                  Designed and implemented scalable deployment architectures for AI workloads, ensuring automation, security, and high availability. 
+                  Proficient in CI/CD pipelines with GitLab CI, container orchestration, and AI infrastructure management. 
+        highlights: 
+          - Created deployment architecture using Helm charts, Helm files, K8s configs, Ansible, and Python for Dell's Generative A.I. application.
+          - Deployed all through GitLab C.I. instrastructure.
+          - Deployed tools like airflow, istio, jupyterhub, milvus, docker registry, keycloak, nfs provisioner, and more.
+          - Researched new AI tools and technology especially in a fast growing A.I. market.
+          - Secured the Generative A.I. application using tools like Blackduck and SonarQube.
       - company: Dell Technologies
         position: Principle Site Reliability Engineer | APEX Cloud Services
         start_date: 2022-01
-        end_date: 2023-01
+        end_date: 2024-01
         summary: Supported and maintained the SRE systems for the APEX Cloud solution by leading the way in automating customers' requests and infrastructure management.
         highlights: 
           - Designed custom Ansible Roles for customers that configures hardware and configuration changes.
@@ -45,9 +54,27 @@ cv:
             Facilitated the ISO27K certification across geos while presenting my findings successfully to the auditor.
             Zero noncompliance and issued increasing APEX's customer pool.
           - I used my experience with CI/CD and Agile Methodologies to help bring this new team and product together.
-
-
-    
+      - company: VMware Inc   
+        position: Site Reliability Engineer, Member of Technical Staff, Cloud Operations Engineer
+        start_date: 2014-08
+        end_date: 2022-01
+        summary: Supported and maintained over 3000 VMs in a high paced environment developing tools for R&D via internal websites and Infrastructure as Code (IAC). 
+        highlights: 
+          - Leading Architect for R&Ds product deployment tool. Drove from POC to production an internal website that deploys VMware's Works Space One application saving the company and developers countless hours of deployment time.
+          - Used agile methodology to continuously deploy our tool on a quarterly cadence with recognition from senior management. 
+          - Won the 2018 VMware RADIO (R&D Innovation Offsite) competition for our product deployment tool.
+          - Developed an entire Microsoft Exchange Lab for our development team that contributed to several customer contracts. Advanced this project by writing complex Ansible IAC to deploy an entire working Exchange Server that was publicly accessible.
+          - Designed infrastructure and automation needs for customers. Patent issued.
+          - Designed infrastructure and automated deployments for customers on a new email certificate retrieval process. Contributed to writing of patent abstract for submission.
+          - Evangelized the necessity of infrastructure as code in a fast-paced software organization
+          - Solved implementation gaps with custom scripting and development
+          - Written custom Python, PowerShell, Docker, Terraform, and Bash scripts to fill gaps in tooling and testing.
+          - Recognizing that there will be gaps in open-source tools and made the initiative to write custom python Ansible modules to fill in those gaps. See my public Ansible module on GitHub here https://bit.ly/3oC9X9I
+          - Managing windows servers by means of DSCs and custom PowerShell scripts to customize a server before CI/CD pipeline execution.
+          - Utilized \#!/bin/bash scripts to efficiently run Terraform deployments and teardowns. Storing state files in Consul.
+          - Leveraged the power of Docker to run local Terraform unit tests before being submitted into the promoter pipeline.
+          - Understanding that if you run a task repeatedly your goal should be to automate that task. 
+          - 2018 VMware RADIO (R&D Innovation Offsite) winner for product deployment tool   
     
     
     projects:
