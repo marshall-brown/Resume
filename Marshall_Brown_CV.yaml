@@ -9,7 +9,7 @@ cv:
     - network: GitHub
       username: marshall-brown
   sections:
-    DevOps-Site Reliability Engineer:
+    DevOps - Site Reliability Engineer:
       - Versatile DevOps Engineer with over 10 years of experience combining software and automation. 
         Proven experience with CI/CD methodology and large product roll outs. Proficient with DevOps tooling, scripting, and infrastructure. 
         Manage complex problems and projects effectively while driving profit and growth to meet the business and customer goals. 
@@ -27,6 +27,7 @@ cv:
     experience:
       - company: Dell Technologies
         position: Principle Site Reliability Engineer | Generative A.I.
+        location: Atlanta, GA
         start_date: 2024-01
         end_date: 2025-02
         summary:  Experienced Site Reliability Engineer specializing in deploying and managing Generative AI applications using Kubernetes, Helm, and Ansible. 
@@ -40,6 +41,7 @@ cv:
           - Secured the Generative A.I. application using tools like Blackduck and SonarQube.
       - company: Dell Technologies
         position: Principle Site Reliability Engineer | APEX Cloud Services
+        location: Atlanta, GA
         start_date: 2022-01
         end_date: 2024-01
         summary: Supported and maintained the SRE systems for the APEX Cloud solution by leading the way in automating customers' requests and infrastructure management.
@@ -56,6 +58,7 @@ cv:
           - I used my experience with CI/CD and Agile Methodologies to help bring this new team and product together.
       - company: VMware Inc   
         position: Site Reliability Engineer, Member of Technical Staff, Cloud Operations Engineer
+        location: Atlanta, GA
         start_date: 2014-08
         end_date: 2022-01
         summary: Supported and maintained over 3000 VMs in a high paced environment developing tools for R&D via internal websites and Infrastructure as Code (IAC). 
@@ -74,48 +77,34 @@ cv:
           - Utilized \#!/bin/bash scripts to efficiently run Terraform deployments and teardowns. Storing state files in Consul.
           - Leveraged the power of Docker to run local Terraform unit tests before being submitted into the promoter pipeline.
           - Understanding that if you run a task repeatedly your goal should be to automate that task. 
-          - 2018 VMware RADIO (R&D Innovation Offsite) winner for product deployment tool   
-    
-    
-    projects:
-      - name: '[Example Project](https://example.com)'
-        start_date: 2024-05
-        end_date: present
-        highlights:
-          - Launched an [iOS app](https://example.com) in 09/2024
-            that currently has 10k+ monthly active users
-          - The app is made open-source (3,000+ stars [on GitHub](https://github.com))
-        summary: A web application for writing essays
-      - name: '[Teaching on Udemy](https://example.com)'
-        date: Fall 2023
-        highlights:
-          - Instructed the "Statics" course on Udemy (60,000+
-            students, 200,000+ hours watched)
-    skills:
-      - label: Programming
-        details: Proficient with Python, C++, and Git; good understanding
-          of Web, app development, and DevOps
-      - label: Mathematics
-        details: Good understanding of differential equations,
-          calculus, and linear algebra
-      - label: Languages
-        details: 'English (fluent, TOEFL: 118/120), Turkish (native)'
-    publications:
-      - title: 3D Finite Element Analysis of No-Insulation Coils
-        authors:
-          - Frodo Baggins
-          - '***John Doe***'
-          - Samwise Gamgee
-        doi: 10.1109/TASC.2023.3340648
-        date: 2004-01
-    extracurricular_activities:
-      - bullet: 'There are 7 unique entry types in RenderCV: *BulletEntry*,
-          *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*,
-          *PublicationEntry*, and *OneLineEntry*.'
-      - bullet: Each entry type has a different structure and
-          layout. This document demonstrates all of them.
+          - 2018 VMware RADIO (R&D Innovation Offsite) winner for product deployment tool
+      - company: Gulfstream
+        position: Mobile Software developers
+        location: Savannah, GA
+        start_date: 2013-05 
+        end_date: 2014-05
+        summary: Developed Gulfstreams mobile internal Customer Relation Management (SAP CRM) tool for iOS and Android.
+        highlights: 
+          - I developed the companies first ever internal mobile application for sales associates that is still in use today.
+          - Integrated complex customer data into a mobile friendly apparatus.
+    Technical Skills:
+      - label: Artificial Intelligence Technologies
+        details: airflow, istio, jupyterhub, milvus, docker registry, keycloak, nfs provisioner
+      - label: DevOps
+        details: Ansible, Python, Docker, HashiCorp Terraform, HashiCorp Vault, HashiCorp Consul, OpsRamp, Artifactory, Atlassian Stack, ELK Stack, Grafana, Vagrant, PowerShell, Bash, PHP, MS SQL, MY SQL.
+      - label: CI/CD
+        details: GitLab CI, Bamboo CI, Jenkins CI.
+      - label: Cloud
+        details: AWS, Azure.
+      - label: Security
+        details: SonarQube, BlackDuck, KICS.
+      - label: VMware Technologies
+        details: vSphere, vCenter, vCloud Director, vRealize Operations Manager, HA Clusters, SDRS Management, Virtual Networking, Virtual Desktop Infrastructure
+    issued patents:
+      - label: Issued Patents
+        details: “SYSTEM FOR RETRIEVAL OF EMAIL CERTIFICATES FROM REMOTE CERTIFICATE REPOSITORY”
 design:
-  theme: classic
+  theme: engineeringclassic
   page:
     size: us-letter
     top_margin: 2cm
