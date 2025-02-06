@@ -10,7 +10,7 @@ cv:
       username: marshall-brown
   sections:
     DevOps - Site Reliability Engineer:
-      - Versatile DevOps Engineer with over 10 years of experience combining software and automation. 
+      - Versatile DevOps Engineer with over 12 years of experience combining software and automation. 
         Proven experience with CI/CD methodology and large product roll outs. Proficient with DevOps tooling, scripting, and infrastructure. 
         Manage complex problems and projects effectively while driving profit and growth to meet the business and customer goals. 
         Cultivated strong customer relationships both internally and externally, while consistently meeting deadlines and upholding exceptional quality standards. 
@@ -68,15 +68,11 @@ cv:
           - Won the 2018 VMware RADIO (R&D Innovation Offsite) competition for our product deployment tool.
           - Developed an entire Microsoft Exchange Lab for our development team that contributed to several customer contracts. Advanced this project by writing complex Ansible IAC to deploy an entire working Exchange Server that was publicly accessible.
           - Designed infrastructure and automation needs for customers. Patent issued.
-          - Designed infrastructure and automated deployments for customers on a new email certificate retrieval process. Contributed to writing of patent abstract for submission.
-          - Evangelized the necessity of infrastructure as code in a fast-paced software organization
           - Solved implementation gaps with custom scripting and development
           - Written custom Python, PowerShell, Docker, Terraform, and Bash scripts to fill gaps in tooling and testing.
           - Recognizing that there will be gaps in open-source tools and made the initiative to write custom python Ansible modules to fill in those gaps. See my public Ansible module on GitHub here https://bit.ly/3oC9X9I
-          - Managing windows servers by means of DSCs and custom PowerShell scripts to customize a server before CI/CD pipeline execution.
           - Utilized \#!/bin/bash scripts to efficiently run Terraform deployments and teardowns. Storing state files in Consul.
           - Leveraged the power of Docker to run local Terraform unit tests before being submitted into the promoter pipeline.
-          - Understanding that if you run a task repeatedly your goal should be to automate that task. 
           - 2018 VMware RADIO (R&D Innovation Offsite) winner for product deployment tool
       - company: Gulfstream
         position: Mobile Software developers
@@ -102,7 +98,7 @@ cv:
         details: vSphere, vCenter, vCloud Director, vRealize Operations Manager, HA Clusters, SDRS Management, Virtual Networking, Virtual Desktop Infrastructure
     issued patents:
       - label: Issued Patents
-        details: “SYSTEM FOR RETRIEVAL OF EMAIL CERTIFICATES FROM REMOTE CERTIFICATE REPOSITORY”
+        details: “SYSTEM FOR RETRIEVAL OF EMAIL CERTIFICATES FROM REMOTE CERTIFICATE REPOSITORY” Patent No 10,153,899 - Issued 2018     
 design:
   theme: engineeringclassic
   page:
