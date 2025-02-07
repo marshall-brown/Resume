@@ -10,11 +10,11 @@ cv:
       username: marshall-brown
   sections:
     DevOps - Site Reliability Engineer:
-      - Versatile DevOps Engineer with over 12 years of experience combining software and automation. 
-        Proven experience with CI/CD methodology and large product roll outs. Proficient with DevOps tooling, scripting, and infrastructure. 
-        Manage complex problems and projects effectively while driving profit and growth to meet the business and customer goals. 
-        Cultivated strong customer relationships both internally and externally, while consistently meeting deadlines and upholding exceptional quality standards. 
-        Able to focus on business goals and contribute to intellectual property.
+      - Versatile DevOps and Site Reliability Engineer with over 12 years of experience in software development, automation, and CI/CD methodologies. 
+        Skilled in designing and deploying large-scale solutions with expertise in DevOps tooling, scripting, and infrastructure management. 
+        Adept at solving complex challenges and leading projects that drive business growth and profitability.
+        Strong ability to foster internal and external customer relationships while consistently delivering high-quality solutions on time. 
+        Passionate about innovation, process optimization, and contributing to intellectual property.
     education:
       - institution: Georgia Southern University
         area: Information Technology
@@ -26,67 +26,65 @@ cv:
           - Minor in Pre-Law Administrative Justice
     experience:
       - company: Dell Technologies
-        position: Principle Site Reliability Engineer | Generative A.I.
+        position: Principal Site Reliability Engineer | Generative A.I.
         location: Atlanta, GA
         start_date: 2024-01
         end_date: 2025-02
-        summary:  Experienced Site Reliability Engineer specializing in deploying and managing Generative AI applications using Kubernetes, Helm, and Ansible. 
-                  Designed and implemented scalable deployment architectures for AI workloads, ensuring automation, security, and high availability. 
-                  Proficient in CI/CD pipelines with GitLab CI, container orchestration, and AI infrastructure management. 
+        summary:  Experienced Site Reliability Engineer specializing in deploying and managing Generative A.I. applications using Kubernetes, Helm, and Ansible. 
+                  Designed and implemented scalable deployment architectures for A.I. workloads, ensuring automation, security, and high availability. 
+                  Proficient in CI/CD pipelines with GitLab CI, container orchestration, and A.I. infrastructure management. 
         highlights: 
           - Created deployment architecture using Helm charts, Helm files, K8s configs, Ansible, and Python for Dell's Generative A.I. application.
-          - Deployed all through GitLab C.I. instrastructure.
+          - Automated deployments using GitLab CI/CD. 
           - Deployed tools like airflow, istio, jupyterhub, milvus, docker registry, keycloak, nfs provisioner, and more.
-          - Researched new AI tools and technology especially in a fast growing A.I. market.
+          - Researched new A.I. tools and technology especially in a fast-growing A.I. market.
           - Secured the Generative A.I. application using tools like Blackduck and SonarQube.
       - company: Dell Technologies
         position: Principle Site Reliability Engineer | APEX Cloud Services
         location: Atlanta, GA
         start_date: 2022-01
         end_date: 2024-01
-        summary: Supported and maintained the SRE systems for the APEX Cloud solution by leading the way in automating customers' requests and infrastructure management.
+        summary: Supported and maintained the SRE systems for the Dell APEX Cloud Solution by leading the way in automating customers' requests and infrastructure management.
         highlights: 
-          - Designed custom Ansible Roles for customers that configures hardware and configuration changes.
-            Enabled the APEX SRE team to handle multiple customers being onboarded by automating the exhausting onboarding process. 
-            Ansible molecule tested.
-            CI/CD deployed using GitLab.
-            Written custom python scripts for internal tooling.
+          - Designed custom Ansible Roles for customers that configure hardware and configuration changes.
+            Enabled the APEX SRE team to onboard multiple customers efficiently by automating the time consuming onboarding process. 
+            Tested with Ansible Molecule and deployed via GitLab CI/CD. Developed custom Python scripts for internal tooling.
             SDLC followed.
-          - Team Lead for certifying APEX SRE in getting ISO27K compliant. 
+          - Team Lead for certifying 'Dell APEX Cloud Solution'  for ISO 27001 compliance.
             Facilitated the ISO27K certification across geos while presenting my findings successfully to the auditor.
             Zero noncompliance and issued increasing APEX's customer pool.
           - I used my experience with CI/CD and Agile Methodologies to help bring this new team and product together.
       - company: VMware Inc   
-        position: Site Reliability Engineer, Member of Technical Staff, Cloud Operations Engineer
+        position: Site Reliability Engineer, Member of Technical Staff, Cloud Operations Engineer.
         location: Atlanta, GA
         start_date: 2014-08
         end_date: 2022-01
         summary: Supported and maintained over 3000 VMs in a high paced environment developing tools for R&D via internal websites and Infrastructure as Code (IAC). 
         highlights: 
           - Leading Architect for R&Ds product deployment tool. Drove from POC to production an internal website that deploys VMware's Works Space One application saving the company and developers countless hours of deployment time.
-          - Used agile methodology to continuously deploy our tool on a quarterly cadence with recognition from senior management. 
+          - Used Agile methodology to deploy our tool quarterly, earning recognition from senior management.
           - Won the 2018 VMware RADIO (R&D Innovation Offsite) competition for our product deployment tool.
-          - Developed an entire Microsoft Exchange Lab for our development team that contributed to several customer contracts. Advanced this project by writing complex Ansible IAC to deploy an entire working Exchange Server that was publicly accessible.
+          - Developed an entire Microsoft Exchange Lab for our development team that contributed to several customer contracts. Enhanced this project by writing complex Ansible IaC scripts to deploy a fully functional, publicly accessible Exchange Server.
           - Designed infrastructure and automation needs for customers. Patent issued.
-          - Solved implementation gaps with custom scripting and development
+          - Solved implementation gaps with custom scripting and development.
           - Written custom Python, PowerShell, Docker, Terraform, and Bash scripts to fill gaps in tooling and testing.
-          - Recognizing that there will be gaps in open-source tools and made the initiative to write custom python Ansible modules to fill in those gaps. See my public Ansible module on GitHub here https://bit.ly/3oC9X9I
+          - Recognized gaps in open-source tools and took the initiative to develop custom Python Ansible modules. See my public Ansible module on GitHub here https://bit.ly/3oC9X9I
           - Utilized \#!/bin/bash scripts to efficiently run Terraform deployments and teardowns. Storing state files in Consul.
           - Leveraged the power of Docker to run local Terraform unit tests before being submitted into the promoter pipeline.
-          - 2018 VMware RADIO (R&D Innovation Offsite) winner for product deployment tool
+          - 2018 VMware RADIO (R&D Innovation Offsite) winner for product deployment tool.
       - company: Gulfstream
         position: Mobile Software developers
         location: Savannah, GA
         start_date: 2013-05 
         end_date: 2014-05
-        summary: Developed Gulfstreams mobile internal Customer Relation Management (SAP CRM) tool for iOS and Android.
+        summary: Developed Gulfstream's internal mobile Customer Relationship Management (SAP CRM) tool for iOS and Android.
         highlights: 
-          - I developed the companies first ever internal mobile application for sales associates that is still in use today.
+          - Developed the company's first internal mobile application for sales associates that is still in use today.
           - Integrated complex customer data into a mobile friendly apparatus.
     Technical Skills:
       - label: Artificial Intelligence Technologies
-        details: airflow, istio, jupyterhub, milvus, docker registry, keycloak, nfs provisioner
-      - label: DevOps
+        details: Hugging Face, vllm, tgi, airflow, istio, jupyterhub, milvus, docker registry, keycloak, nfs provisioner
+      - label: DevOps and Site Reliability Engineer
         details: Ansible, Python, Docker, HashiCorp Terraform, HashiCorp Vault, HashiCorp Consul, OpsRamp, Artifactory, Atlassian Stack, ELK Stack, Grafana, Vagrant, PowerShell, Bash, PHP, MS SQL, MY SQL.
       - label: CI/CD
         details: GitLab CI, Bamboo CI, Jenkins CI.
