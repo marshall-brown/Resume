@@ -68,10 +68,10 @@ cv:
           - Designed infrastructure and automation needs for customers. Patent issued.
           - Solved implementation gaps with custom scripting and development.
           - Written custom Python, PowerShell, Docker, Terraform, and Bash scripts to fill gaps in tooling and testing.
-          - Recognized gaps in open-source tools and took the initiative to develop custom Python Ansible modules. See my public Ansible module on GitHub here https://bit.ly/3oC9X9I
+          - Identified gaps in open-source tools and developed custom Python Ansible modules. See my public module on GitHub - https://bit.ly/3oC9X9I
           - Utilized \#!/bin/bash scripts to efficiently run Terraform deployments and teardowns. Storing state files in Consul.
           - Leveraged the power of Docker to run local Terraform unit tests before being submitted into the promoter pipeline.
-          - 2018 VMware RADIO (R&D Innovation Offsite) winner for product deployment tool.
+          - Winner of the 2018 VMware RADIO (R&D Innovation Offsite) award for product deployment tool.
       - company: Gulfstream
         position: Mobile Software developers
         location: Savannah, GA
