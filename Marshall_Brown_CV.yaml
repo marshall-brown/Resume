@@ -47,12 +47,12 @@ cv:
         summary: Supported and maintained the SRE systems for the Dell APEX Cloud Solution by leading the way in automating customers' requests and infrastructure management.
         highlights: 
           - Designed custom Ansible Roles for customers that configure hardware and configuration changes.
-            Enabled the APEX SRE team to onboard multiple customers efficiently by automating the time consuming onboarding process. 
+            Enabled the APEX SRE team to onboard multiple customers efficiently by automating the time-consuming onboarding process. 
             Tested with Ansible Molecule and deployed via GitLab CI/CD. Developed custom Python scripts for internal tooling.
             SDLC followed.
           - Team Lead for certifying 'Dell APEX Cloud Solution'  for ISO 27001 compliance.
             Facilitated the ISO27K certification across geos while presenting my findings successfully to the auditor.
-            Zero noncompliance and issued increasing APEX's customer pool.
+            Achieved zero noncompliance findings, increasing APEX's customer pool.
           - I used my experience with CI/CD and Agile Methodologies to help bring this new team and product together.
       - company: VMware Inc   
         position: Site Reliability Engineer, Member of Technical Staff, Cloud Operations Engineer.
@@ -62,9 +62,9 @@ cv:
         summary: Supported and maintained over 3000 VMs in a high paced environment developing tools for R&D via internal websites and Infrastructure as Code (IAC). 
         highlights: 
           - Leading Architect for R&Ds product deployment tool. Drove from POC to production an internal website that deploys VMware's Works Space One application saving the company and developers countless hours of deployment time.
-          - Used Agile methodology to deploy our tool quarterly, earning recognition from senior management.
+          - Utilized Agile methodologies to deploy our tool quarterly, earning recognition from senior management.
           - Won the 2018 VMware RADIO (R&D Innovation Offsite) competition for our product deployment tool.
-          - Developed an entire Microsoft Exchange Lab for our development team that contributed to several customer contracts. Enhanced this project by writing complex Ansible IaC scripts to deploy a fully functional, publicly accessible Exchange Server.
+          - Developed a Microsoft Exchange Lab for our development team that contributed to several customer contracts. Enhanced this project by writing complex Ansible IaC scripts to deploy a fully functional, publicly accessible Exchange Server.
           - Designed infrastructure and automation needs for customers. Patent issued.
           - Solved implementation gaps with custom scripting and development.
           - Written custom Python, PowerShell, Docker, Terraform, and Bash scripts to fill gaps in tooling and testing.
