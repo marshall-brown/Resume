@@ -24,19 +24,19 @@ cv:
           - Minor in Pre-Law Administrative Justice
     experience:
       - company: Dell Technologies
-        position: Principal Site Reliability Engineer - Generative A.I.
+        position: Principal Site Reliability Engineer - Generative AI
         location: Atlanta, GA
         start_date: 2024-01
         end_date: 2025-01
-        summary:  Experienced Site Reliability Engineer specializing in deploying and managing Generative A.I. applications using Kubernetes, Helm, and Ansible. 
-                  Designed and implemented scalable deployment architectures for A.I. workloads, ensuring automation, security, and high availability. 
-                  Proficient in CI/CD pipelines with GitLab CI, container orchestration, and A.I. infrastructure management. 
+        summary:  Experienced Site Reliability Engineer specializing in deploying and managing Generative AI applications using Kubernetes, Helm, and Ansible. 
+                  Designed and implemented scalable deployment architectures for AI workloads, ensuring automation, security, and high availability. 
+                  Proficient in CI/CD pipelines with GitLab CI, container orchestration, and AI infrastructure management. 
         highlights: 
-          - Created deployment architecture using Helm charts, Helm files, K8s configs, Ansible, and Python for Dell's Generative A.I. application.
+          - Created deployment architecture using Helm charts, Helm files, K8s configs, Ansible, and Python for Dell's Generative AI application.
           - Automated deployments using GitLab CI/CD. Reduced deployment times drastically.
-          - Orchestrated scalable AI infrastructure like Airflow, Istio, and JupyterHub using Helm charts. 
-          - Researched new A.I. tools and technology especially in a fast-growing A.I. market.
-          - Secured the Generative A.I. application using tools like Blackduck and SonarQube.
+          - Orchestrated scalable AI infrastructure such as Airflow, Istio, and JupyterHub, using Helm charts. 
+          - Researched new AI tools and technology especially in a fast-growing AI market.
+          - Secured the Generative AI application using tools like Blackduck and SonarQube.
       - company: Dell Technologies
         position: Principal Site Reliability Engineer - APEX Cloud Services
         location: Atlanta, GA
@@ -53,7 +53,7 @@ cv:
             Achieved zero noncompliance findings, increasing APEX's customer pool.
           - I used my experience with CI/CD and Agile Methodologies to help bring this new team and product together.
       - company: VMware Inc   
-        position: Site Reliability Engineer, Member of Technical Staff, Cloud Operations Engineer.
+        position: Site Reliability Engineer, DevOps Engineer, Cloud Operations Engineer.
         location: Atlanta, GA
         start_date: 2014-08
         end_date: 2022-01
@@ -71,7 +71,7 @@ cv:
           - Leveraged the power of Docker to run local Terraform unit tests before being submitted into the promoter pipeline.
           - Winner of the 2018 VMware RADIO (R&D Innovation Offsite) award for product deployment tool.
       - company: Gulfstream
-        position: Mobile Software developers
+        position: Mobile Software developer
         location: Savannah, GA
         start_date: 2013-05 
         end_date: 2014-05
