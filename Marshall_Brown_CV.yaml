@@ -57,15 +57,15 @@ cv:
         location: Atlanta, GA
         start_date: 2014-08
         end_date: 2022-01
-        summary: Supported and maintained over 3000 VMs in a high paced environment developing tools for R&D via internal websites and Infrastructure as Code (IAC). 
+        summary: Supported and maintained over 3000 VMs in a high-paced environment developing tools for R&D via internal websites and Infrastructure as Code (IAC). 
         highlights: 
-          - Leading Architect for R&Ds product deployment tool. Drove from POC to production an internal website that deploys VMware's Works Space One application saving the company and developers countless hours of deployment time.
-          - Lowered the install time from 3 hours to 40 minutes. Reducing installs by 77%
+          - Leading Architect for R&D's product deployment tool. Drove from POC to production an internal website that deploys VMware's Workspace One application saving the company and developers countless hours of deployment time.
+          - Lowered the install time from 3 hours to 40 minutes, reducing installs by 77%.
           - Utilized Agile methodologies to deploy our tool quarterly, earning recognition from senior management.
-          - Developed a Microsoft Exchange Lab for our development team that contributed to several customer contracts. Enhanced this project by writing complex Ansible IaC scripts to deploy a fully functional, publicly accessible Exchange Server.
+          - Developed a Microsoft Exchange lab for our development team that contributed to several customer contracts. Enhanced this project by writing complex Ansible IaC scripts to deploy a fully functional, publicly accessible Exchange Server.
           - Designed infrastructure and automation needs for customers. Patent issued.
           - Solved implementation gaps with custom scripting and development.
-          - Written custom Python, PowerShell, Docker, Terraform, and Bash scripts to fill gaps in tooling and testing.
+          - Wrote custom Python, PowerShell, Docker, Terraform, and Bash scripts to fill gaps in tooling and testing.
           - Identified gaps in open-source tools and developed custom Python Ansible modules. See my public module on GitHub - marshall-brown/F5_delete_node_pools
           - Utilized bash scripts to efficiently run Terraform deployments and teardowns. Storing state files in Consul.
           - Leveraged the power of Docker to run local Terraform unit tests before being submitted into the promoter pipeline.
@@ -75,7 +75,7 @@ cv:
         location: Savannah, GA
         start_date: 2013-05 
         end_date: 2014-05
-        summary: Developed Gulfstream's internal mobile Customer Relationship Management (SAP CRM) tool for iOS and Android.
+        summary: Developed Gulfstream's internal Mobile Customer Relationship Management (SAP CRM) tool for iOS and Android.
         highlights: 
           - Developed the company's first internal mobile application for sales associates that is still in use today.
           - Integrated complex customer data into a mobile friendly apparatus.
