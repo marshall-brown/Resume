@@ -26,10 +26,10 @@ cv:
           - Minor in Pre-Law Administrative Justice
     experience:
       - company: Dell Technologies
-        position: Principal Site Reliability Engineer | Generative A.I.
+        position: Principal Site Reliability Engineer - Generative A.I.
         location: Atlanta, GA
         start_date: 2024-01
-        end_date: 2025-02
+        end_date: 2025-01
         summary:  Experienced Site Reliability Engineer specializing in deploying and managing Generative A.I. applications using Kubernetes, Helm, and Ansible. 
                   Designed and implemented scalable deployment architectures for A.I. workloads, ensuring automation, security, and high availability. 
                   Proficient in CI/CD pipelines with GitLab CI, container orchestration, and A.I. infrastructure management. 
@@ -40,7 +40,7 @@ cv:
           - Researched new A.I. tools and technology especially in a fast-growing A.I. market.
           - Secured the Generative A.I. application using tools like Blackduck and SonarQube.
       - company: Dell Technologies
-        position: Principle Site Reliability Engineer | APEX Cloud Services
+        position: Principal Site Reliability Engineer - APEX Cloud Services
         location: Atlanta, GA
         start_date: 2022-01
         end_date: 2024-01
@@ -63,7 +63,6 @@ cv:
         highlights: 
           - Leading Architect for R&Ds product deployment tool. Drove from POC to production an internal website that deploys VMware's Works Space One application saving the company and developers countless hours of deployment time.
           - Utilized Agile methodologies to deploy our tool quarterly, earning recognition from senior management.
-          - Won the 2018 VMware RADIO (R&D Innovation Offsite) competition for our product deployment tool.
           - Developed a Microsoft Exchange Lab for our development team that contributed to several customer contracts. Enhanced this project by writing complex Ansible IaC scripts to deploy a fully functional, publicly accessible Exchange Server.
           - Designed infrastructure and automation needs for customers. Patent issued.
           - Solved implementation gaps with custom scripting and development.
@@ -98,7 +97,7 @@ cv:
       - label: Issued Patents
         details: “SYSTEM FOR RETRIEVAL OF EMAIL CERTIFICATES FROM REMOTE CERTIFICATE REPOSITORY” Patent No 10,153,899 - Issued 2018     
 design:
-  theme: engineeringclassic
+  theme: sb2nov
   page:
     size: us-letter
     top_margin: 2cm
@@ -106,7 +105,7 @@ design:
     left_margin: 2cm
     right_margin: 2cm
     show_page_numbering: true
-    show_last_updated_date: true
+    show_last_updated_date: false
   colors:
     text: black
     name: '#004f90'
@@ -118,7 +117,7 @@ design:
     font_family: Source Sans 3
     font_size: 10pt
     leading: 0.6em
-    alignment: justified
+    alignment: justified-with-no-hyphenation
     date_and_location_column_alignment: right
   links:
     underline: false
