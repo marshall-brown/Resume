@@ -81,9 +81,9 @@ cv:
           - Integrated complex customer data into a mobile friendly apparatus.
     Technical Skills:
       - label: Artificial Intelligence Technologies
-        details: Hugging Face, vllm, tgi, airflow, istio, jupyterhub, milvus, docker registry, keycloak, nfs provisioner.
+        details: Hugging Face, VLLM, TGI, Langchain, Airflow, Istio, Jupyterhub, Milvus, Docker Registry, Keycloak, NFS Provisioner, Prometheus.
       - label: DevOps and Site Reliability Engineer
-        details: Ansible, Python, Docker, HashiCorp Terraform, HashiCorp Vault, HashiCorp Consul, OpsRamp, Artifactory, Atlassian Stack, ELK Stack, Grafana, Vagrant, PowerShell, Bash, PHP, MS SQL, MY SQL.
+        details: Ansible, Kubernetes, Python, Docker, Helm Charts/Files, HashiCorp(Terraform, Vault, and Consul), OpsRamp, Artifactory, Atlassian Stack, ELK Stack, Grafana, PowerShell, Bash, MS SQL, MY SQL.
       - label: CI/CD
         details: GitLab CI, Bamboo CI, Jenkins CI.
       - label: Cloud
