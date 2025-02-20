@@ -83,7 +83,7 @@ cv:
       - label: Artificial Intelligence Technologies
         details: Hugging Face, VLLM, TGI, Langchain, Airflow, Istio, Jupyterhub, Milvus, Docker Registry, Keycloak, NFS Provisioner, Prometheus.
       - label: DevOps and Site Reliability Engineer
-        details: Ansible, Kubernetes, Python, Docker, Helm Charts/Files, HashiCorp(Terraform, Vault, and Consul), OpsRamp, Artifactory, Atlassian Stack, ELK Stack, Grafana, PowerShell, Bash, MS SQL, MY SQL.
+        details: Ansible, Kubernetes, Python, Docker, Helm Charts/Files, Harbor, HashiCorp(Terraform, Vault, and Consul), OpsRamp, Artifactory, Atlassian Stack, ELK Stack, Grafana, PowerShell, Bash, MS SQL, MY SQL.
       - label: CI/CD
         details: GitLab CI, Bamboo CI, Jenkins CI.
       - label: Cloud
