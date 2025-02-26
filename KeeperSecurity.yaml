@@ -1,0 +1,31 @@
+KeeperSecurity:
+  Recruiter: Erin Bell
+  Zero trust security:
+    - Zero-Trust Security is a cybersecurity framework that assumes no entity—inside or outside the network—should be trusted by default. 
+    - Instead, access is granted based on strict identity verification, least privilege principles, and continuous monitoring. 
+    - Key principles of Zero-Trust include:
+      - Verify Explicitly: Authenticate and authorize every request based on multiple factors (e.g., identity, location, device health).
+      - Least Privilege Access: Users and applications should have only the minimum permissions necessary.
+      - Micro-Segmentation: The network is divided into smaller zones to contain potential breaches.
+      - Continuous Monitoring and Analytics: Access is continuously validated, and behavioral analytics are used to detect anomalies.
+  Zero knowledge security:
+    - Zero-Knowledge Security (often associated with Zero-Knowledge Proofs, ZKP) is a cryptographic principle where one party (the prover) can prove to another party (the verifier) that a statement is true without revealing any underlying data.    
+    - Key principals:
+      - No Data Exposure: The verifier learns only the validity of the claim, not the actual data.
+      - Mathematical Proofs: Uses cryptographic protocols like zk-SNARKs (Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge) to validate information.
+      - Privacy-Preserving Authentication: Allows authentication or verification without exposing sensitive details. 
+  Azure DevOps:
+    - Test
+    - Package
+    - Build
+    - Push
+    - Steps is the smalled building block:
+      - can be a script or a task
+    - Tasks:
+      - pre-create script
+    - job:
+      - execution boundre of a set of steps
+    - Agent:
+      - each job runs on a agent  
+      - all steps on a job ron on the same agent
+
